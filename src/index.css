@@ -42,15 +42,17 @@ code {
   background: green;
 }
 
-.stats {
+/* .stats {
   display: flex;
-  /* align-items: center;
-  justify-content: center; */
-}
-.stats > li {
+  align-items: center;
+  justify-content: center; 
+}  */
+
+/* .stats > li {
   display: flex;
   flex-direction: column;
-}
+} */
+
 .profile_container {
   max-width: 300px;
   margin: 0px auto;

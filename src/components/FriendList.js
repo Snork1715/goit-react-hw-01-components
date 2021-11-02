@@ -1,5 +1,5 @@
 import FriendsListItem from "./FriendListItem";
-import friendsList from "../friends.json";
+import friendsList from "../data/friends.json";
 
 export default function FriendList() {
   return (

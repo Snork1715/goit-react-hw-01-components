@@ -2,10 +2,10 @@ import FriendList from "./components/FriendList";
 import Profile from "./components/Profile";
 import StatisticsItem from "./components/Statistics";
 import TransactionHistory from "./components/TransactionHistory";
-import userList from "./user.json";
-import statistic from "./statistical-data.json";
-import transitHist from "./transactions.json";
-import style from "../src/index.css";
+import userList from "./data/user.json";
+import statistic from "./data/statistical-data.json";
+import transitHist from "./data/transactions.json";
+import "../src/index.css";
 
 export default function App() {
   return (
